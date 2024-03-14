@@ -1,0 +1,21 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: DeleteFiles@1
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)'
+    Contents: 'processed_data.csv'
+  displayName: 'Remove Old Data File'
+
+- script: |
+    echo "Installing dependencies..."
+    python -m pip install --upgrade pip
+    pip install pandas
+    echo "Running the data processing script..."
+    python my_script.py
+    echo "Data processing completed."
+  displayName: 'Process Data'
