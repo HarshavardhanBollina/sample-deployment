@@ -8,7 +8,7 @@ steps:
 - task: DeleteFiles@1
   inputs:
     SourceFolder: '$(Build.SourcesDirectory)'
-    Contents: 'processed_data.csv'
+    Contents: 'processed_data.pkl'
   displayName: 'Remove Old Data File'
 
 - script: |
@@ -19,3 +19,18 @@ steps:
     python my_script.py
     echo "Data processing completed."
   displayName: 'Process Data'
+
+  - task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: 'processed_data.pkl' 
+    artifact: 'processed_data'
+
+- task: PostgreSQL@3 
+  inputs:
+    hostname: '$(postgres_server)' 
+    port: '5432'
+    database: '$(postgres_database)' 
+    username: '$(postgres_username)' 
+    password: '$(postgres_password)' 
+    sqlFile: '$(Build.SourcesDirectory)/deployment_script.sql'
+    checkConnectionAfterSetup: true 
