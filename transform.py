@@ -9,4 +9,4 @@ df = df.drop('timestamp', axis=1)
 # these headers match this CSV file exactly
 df.columns = ['City', 'Temperature', 'Day', 'Time'] 
 
-df.to_csv('processed_data.csv', index=False)
+df.to_pickle('processed_data.pkl')
