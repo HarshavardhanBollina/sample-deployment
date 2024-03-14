@@ -1,0 +1,1588 @@
+City,Temperature,Day,Time
+Houston,19,22:00:14,Saturday
+Chicago,8,22:00:15,Saturday
+Los Angeles,10,22:00:16,Saturday
+Chicago,18,22:00:17,Saturday
+Phoenix,22,22:00:18,Saturday
+San Antonio,10,22:00:19,Saturday
+Los Angeles,1,22:00:20,Saturday
+Phoenix,28,22:00:21,Saturday
+San Antonio,23,22:00:22,Saturday
+New York,-5,22:00:23,Saturday
+Chicago,15,22:00:24,Saturday
+New York,-5,22:00:25,Saturday
+Los Angeles,-10,22:00:26,Saturday
+Chicago,-6,22:00:27,Saturday
+Los Angeles,-8,22:00:28,Saturday
+Philadelphia,39,22:00:29,Saturday
+Philadelphia,31,22:00:30,Saturday
+Los Angeles,18,22:00:31,Saturday
+New York,13,22:00:32,Saturday
+Philadelphia,-5,22:00:33,Saturday
+Houston,37,22:00:34,Saturday
+Philadelphia,8,22:00:35,Saturday
+Phoenix,16,22:00:36,Saturday
+Chicago,0,22:00:37,Saturday
+Chicago,3,22:00:38,Saturday
+Phoenix,16,22:00:39,Saturday
+Chicago,39,22:00:40,Saturday
+Chicago,5,22:00:41,Saturday
+San Antonio,-1,22:00:42,Saturday
+New York,24,22:00:43,Saturday
+San Antonio,39,22:00:44,Saturday
+Houston,-7,22:00:45,Saturday
+Phoenix,-9,22:00:46,Saturday
+Chicago,-2,22:00:47,Saturday
+Philadelphia,27,22:00:48,Saturday
+Houston,36,22:00:49,Saturday
+Philadelphia,25,22:00:50,Saturday
+New York,-3,22:00:51,Saturday
+Philadelphia,-4,22:00:52,Saturday
+New York,17,22:00:53,Saturday
+New York,6,22:00:54,Saturday
+Chicago,-10,22:00:55,Saturday
+San Antonio,16,22:00:56,Saturday
+Los Angeles,30,22:00:57,Saturday
+San Antonio,28,22:00:58,Saturday
+New York,-5,22:00:59,Saturday
+Houston,7,22:01:00,Saturday
+San Antonio,37,22:01:01,Saturday
+Houston,-5,22:01:02,Saturday
+Houston,25,22:01:03,Saturday
+Los Angeles,37,22:01:04,Saturday
+Los Angeles,-7,22:01:05,Saturday
+Houston,32,22:01:06,Saturday
+Phoenix,17,22:01:08,Saturday
+Philadelphia,2,22:01:09,Saturday
+Los Angeles,10,22:01:10,Saturday
+Los Angeles,17,22:01:11,Saturday
+Houston,-6,22:01:12,Saturday
+Houston,26,22:01:13,Saturday
+San Antonio,8,22:01:14,Saturday
+Houston,35,22:01:15,Saturday
+San Antonio,-6,22:01:16,Saturday
+Houston,-8,22:01:17,Saturday
+Chicago,30,22:01:18,Saturday
+New York,28,22:01:19,Saturday
+Phoenix,15,22:01:20,Saturday
+Houston,38,22:01:21,Saturday
+Philadelphia,19,22:01:22,Saturday
+Chicago,3,22:01:23,Saturday
+Los Angeles,14,22:01:24,Saturday
+Chicago,-10,22:01:25,Saturday
+Los Angeles,-3,22:01:26,Saturday
+Chicago,28,22:01:27,Saturday
+Houston,-1,22:01:28,Saturday
+Chicago,26,22:01:29,Saturday
+Phoenix,34,22:01:30,Saturday
+San Antonio,5,22:01:31,Saturday
+Phoenix,9,22:01:32,Saturday
+Philadelphia,14,22:01:33,Saturday
+Chicago,33,22:01:34,Saturday
+Houston,18,22:01:35,Saturday
+San Antonio,-9,22:01:36,Saturday
+New York,27,22:01:37,Saturday
+San Antonio,40,22:01:38,Saturday
+San Antonio,9,22:01:39,Saturday
+Houston,38,22:01:40,Saturday
+Los Angeles,-8,22:01:41,Saturday
+Houston,16,22:01:42,Saturday
+Los Angeles,28,22:01:43,Saturday
+Phoenix,6,22:01:44,Saturday
+New York,33,22:01:45,Saturday
+Philadelphia,0,22:01:46,Saturday
+Philadelphia,38,22:01:47,Saturday
+Chicago,-5,22:01:48,Saturday
+Los Angeles,24,22:01:49,Saturday
+Phoenix,22,22:01:50,Saturday
+Chicago,24,22:01:51,Saturday
+Chicago,17,22:01:52,Saturday
+Philadelphia,9,22:01:53,Saturday
+San Antonio,29,22:01:54,Saturday
+Los Angeles,24,22:01:55,Saturday
+Houston,17,22:01:56,Saturday
+Phoenix,18,22:01:57,Saturday
+New York,11,22:01:58,Saturday
+New York,38,22:01:59,Saturday
+New York,-1,22:02:00,Saturday
+San Antonio,-5,22:02:01,Saturday
+Phoenix,7,22:02:02,Saturday
+San Antonio,-2,22:02:03,Saturday
+Chicago,20,22:02:04,Saturday
+New York,35,22:02:05,Saturday
+Los Angeles,27,22:02:06,Saturday
+Houston,4,22:02:07,Saturday
+New York,36,22:02:08,Saturday
+Chicago,11,22:02:09,Saturday
+Phoenix,6,22:02:10,Saturday
+Phoenix,11,22:02:11,Saturday
+Los Angeles,2,22:02:12,Saturday
+Los Angeles,4,22:02:13,Saturday
+Philadelphia,8,22:02:14,Saturday
+Philadelphia,13,22:02:15,Saturday
+Houston,7,22:02:16,Saturday
+Los Angeles,40,22:02:17,Saturday
+New York,5,22:02:18,Saturday
+Chicago,27,22:02:19,Saturday
+Philadelphia,35,22:02:20,Saturday
+New York,36,22:02:21,Saturday
+New York,-6,22:02:22,Saturday
+Phoenix,24,22:02:23,Saturday
+Los Angeles,11,22:02:24,Saturday
+Chicago,12,22:02:25,Saturday
+Phoenix,17,22:02:26,Saturday
+Phoenix,0,22:02:27,Saturday
+Phoenix,-5,22:02:28,Saturday
+Los Angeles,33,22:02:29,Saturday
+New York,2,22:02:30,Saturday
+Phoenix,27,22:02:31,Saturday
+San Antonio,8,22:02:32,Saturday
+Phoenix,35,22:02:33,Saturday
+Phoenix,32,22:02:34,Saturday
+San Antonio,24,22:02:35,Saturday
+Los Angeles,19,22:02:36,Saturday
+New York,8,22:02:37,Saturday
+Chicago,17,22:02:38,Saturday
+San Antonio,34,22:02:39,Saturday
+San Antonio,6,22:02:40,Saturday
+Phoenix,24,22:02:41,Saturday
+Philadelphia,7,22:02:42,Saturday
+Philadelphia,36,22:02:43,Saturday
+San Antonio,21,22:02:44,Saturday
+Phoenix,29,22:02:45,Saturday
+Chicago,32,22:02:46,Saturday
+Chicago,10,22:02:47,Saturday
+Phoenix,4,22:02:48,Saturday
+Chicago,2,22:02:49,Saturday
+New York,-1,22:02:50,Saturday
+Los Angeles,9,22:02:51,Saturday
+Chicago,3,22:02:52,Saturday
+Chicago,36,22:02:53,Saturday
+Philadelphia,3,22:02:54,Saturday
+Philadelphia,-7,22:02:55,Saturday
+Philadelphia,18,22:02:56,Saturday
+Chicago,37,22:02:57,Saturday
+Phoenix,33,22:02:58,Saturday
+San Antonio,33,22:02:59,Saturday
+Houston,35,22:03:00,Saturday
+Chicago,-5,22:03:01,Saturday
+San Antonio,39,22:03:02,Saturday
+New York,23,22:03:03,Saturday
+Houston,11,22:03:04,Saturday
+San Antonio,0,22:03:05,Saturday
+San Antonio,10,22:03:06,Saturday
+Chicago,13,22:03:07,Saturday
+Los Angeles,-10,22:03:08,Saturday
+Phoenix,38,22:03:09,Saturday
+Houston,32,22:03:10,Saturday
+New York,-10,22:03:11,Saturday
+Houston,23,22:03:12,Saturday
+Phoenix,20,22:03:13,Saturday
+Houston,9,22:03:14,Saturday
+Los Angeles,-4,22:03:15,Saturday
+Phoenix,-2,22:03:16,Saturday
+Houston,-4,22:03:17,Saturday
+New York,8,22:03:18,Saturday
+Phoenix,4,22:03:19,Saturday
+New York,26,22:03:20,Saturday
+Philadelphia,12,22:03:21,Saturday
+New York,7,22:03:22,Saturday
+Los Angeles,-5,22:03:23,Saturday
+Houston,6,22:03:24,Saturday
+New York,-10,22:03:25,Saturday
+Phoenix,-7,22:03:26,Saturday
+San Antonio,11,22:03:27,Saturday
+Houston,22,22:03:28,Saturday
+Houston,11,22:03:29,Saturday
+Chicago,1,22:03:30,Saturday
+Philadelphia,0,22:03:31,Saturday
+Houston,-4,22:03:32,Saturday
+Phoenix,6,22:03:33,Saturday
+Chicago,4,22:03:34,Saturday
+Houston,18,22:03:35,Saturday
+Los Angeles,-1,22:03:36,Saturday
+San Antonio,-10,22:03:37,Saturday
+Philadelphia,37,22:03:38,Saturday
+Houston,-3,22:03:39,Saturday
+Phoenix,-4,22:03:40,Saturday
+Los Angeles,39,22:03:41,Saturday
+Philadelphia,9,22:03:42,Saturday
+Los Angeles,39,22:03:43,Saturday
+Phoenix,22,22:03:44,Saturday
+Houston,-5,22:03:45,Saturday
+San Antonio,22,22:03:46,Saturday
+Houston,-5,22:03:47,Saturday
+San Antonio,17,22:03:48,Saturday
+Chicago,-2,22:03:49,Saturday
+Philadelphia,21,22:03:50,Saturday
+Philadelphia,17,22:03:51,Saturday
+Chicago,28,22:03:52,Saturday
+New York,-6,22:03:53,Saturday
+Philadelphia,10,22:03:54,Saturday
+New York,-6,22:03:55,Saturday
+Chicago,-7,22:03:56,Saturday
+Phoenix,-5,22:03:57,Saturday
+New York,28,22:03:58,Saturday
+San Antonio,6,22:03:59,Saturday
+Chicago,-5,22:04:00,Saturday
+Philadelphia,-9,22:04:01,Saturday
+Phoenix,-4,22:04:02,Saturday
+Houston,28,22:04:03,Saturday
+New York,34,22:04:04,Saturday
+Philadelphia,40,22:04:05,Saturday
+New York,0,22:04:06,Saturday
+New York,35,22:04:07,Saturday
+San Antonio,32,22:04:08,Saturday
+Phoenix,38,22:04:09,Saturday
+Houston,-3,22:04:10,Saturday
+San Antonio,38,22:04:11,Saturday
+New York,22,22:04:12,Saturday
+Phoenix,8,22:04:13,Saturday
+Phoenix,30,22:04:14,Saturday
+New York,18,22:04:15,Saturday
+Philadelphia,13,22:04:16,Saturday
+Phoenix,35,22:04:17,Saturday
+New York,21,22:04:18,Saturday
+Philadelphia,9,22:04:19,Saturday
+Philadelphia,34,22:04:20,Saturday
+Philadelphia,12,22:04:21,Saturday
+Los Angeles,1,22:04:22,Saturday
+Philadelphia,33,22:04:23,Saturday
+San Antonio,-1,22:04:24,Saturday
+New York,-9,22:04:25,Saturday
+San Antonio,12,22:04:26,Saturday
+Philadelphia,18,22:04:27,Saturday
+San Antonio,5,22:04:28,Saturday
+Los Angeles,-2,22:04:29,Saturday
+Chicago,22,22:04:30,Saturday
+Houston,24,22:04:31,Saturday
+Phoenix,19,22:04:32,Saturday
+San Antonio,8,22:04:33,Saturday
+Chicago,6,22:04:34,Saturday
+San Antonio,39,22:04:35,Saturday
+New York,28,22:04:36,Saturday
+Phoenix,22,22:04:37,Saturday
+Philadelphia,2,22:04:38,Saturday
+Los Angeles,4,22:04:39,Saturday
+San Antonio,2,22:04:40,Saturday
+Chicago,-2,22:04:41,Saturday
+Houston,40,22:04:42,Saturday
+New York,7,22:04:43,Saturday
+Phoenix,25,22:04:44,Saturday
+Phoenix,4,22:04:45,Saturday
+Los Angeles,1,22:04:46,Saturday
+Phoenix,16,22:04:47,Saturday
+Philadelphia,-6,22:04:48,Saturday
+Los Angeles,22,22:04:49,Saturday
+Phoenix,33,22:04:50,Saturday
+Houston,1,22:04:51,Saturday
+New York,31,22:04:52,Saturday
+Philadelphia,-9,22:04:53,Saturday
+San Antonio,-3,22:04:54,Saturday
+New York,36,22:04:55,Saturday
+Houston,-4,22:04:56,Saturday
+New York,26,22:04:57,Saturday
+San Antonio,37,22:04:58,Saturday
+New York,3,22:04:59,Saturday
+Houston,27,22:05:00,Saturday
+Phoenix,-9,22:05:01,Saturday
+Phoenix,11,22:05:02,Saturday
+New York,12,22:05:03,Saturday
+Houston,34,22:05:04,Saturday
+New York,12,22:05:05,Saturday
+Houston,33,22:05:06,Saturday
+Philadelphia,5,22:05:07,Saturday
+Los Angeles,-7,22:05:08,Saturday
+Philadelphia,-7,22:05:09,Saturday
+New York,0,22:05:10,Saturday
+Chicago,2,22:05:11,Saturday
+Phoenix,24,22:05:12,Saturday
+San Antonio,-8,22:05:13,Saturday
+Phoenix,13,22:05:14,Saturday
+Phoenix,16,22:05:15,Saturday
+Houston,8,22:05:16,Saturday
+San Antonio,8,22:05:17,Saturday
+Houston,35,22:05:18,Saturday
+Chicago,10,22:05:19,Saturday
+Houston,37,22:05:20,Saturday
+Chicago,25,22:05:21,Saturday
+Philadelphia,40,22:05:22,Saturday
+San Antonio,-4,22:05:24,Saturday
+Los Angeles,20,22:05:25,Saturday
+Philadelphia,16,22:05:26,Saturday
+New York,-1,22:05:27,Saturday
+Philadelphia,24,22:05:28,Saturday
+Phoenix,26,22:05:29,Saturday
+Philadelphia,-3,22:05:30,Saturday
+Chicago,33,22:05:31,Saturday
+Philadelphia,30,22:05:32,Saturday
+San Antonio,38,22:05:33,Saturday
+Los Angeles,-3,22:05:34,Saturday
+Houston,21,22:05:35,Saturday
+Phoenix,38,22:05:36,Saturday
+New York,32,22:05:37,Saturday
+Philadelphia,26,22:05:38,Saturday
+Los Angeles,-5,22:05:39,Saturday
+San Antonio,35,22:05:40,Saturday
+Phoenix,36,22:05:41,Saturday
+Philadelphia,35,22:05:42,Saturday
+Houston,39,22:05:43,Saturday
+Phoenix,22,22:05:44,Saturday
+Houston,26,22:05:45,Saturday
+Phoenix,-8,22:05:46,Saturday
+Houston,36,22:05:47,Saturday
+Los Angeles,10,22:05:48,Saturday
+Philadelphia,22,22:05:49,Saturday
+Los Angeles,-2,22:05:50,Saturday
+Philadelphia,6,22:05:51,Saturday
+Philadelphia,15,22:05:52,Saturday
+Houston,37,22:05:53,Saturday
+New York,7,22:05:54,Saturday
+Phoenix,-4,22:05:55,Saturday
+New York,25,22:05:56,Saturday
+Houston,11,22:05:57,Saturday
+Phoenix,38,22:05:58,Saturday
+Phoenix,3,22:05:59,Saturday
+Los Angeles,34,22:06:00,Saturday
+Philadelphia,37,22:06:01,Saturday
+Phoenix,39,22:06:02,Saturday
+New York,0,22:06:03,Saturday
+Philadelphia,5,22:06:04,Saturday
+Los Angeles,35,22:06:05,Saturday
+Los Angeles,17,22:06:06,Saturday
+Los Angeles,34,22:06:07,Saturday
+San Antonio,6,22:06:08,Saturday
+Phoenix,22,22:06:09,Saturday
+San Antonio,-1,22:06:10,Saturday
+Phoenix,26,22:06:11,Saturday
+Chicago,23,22:06:12,Saturday
+Phoenix,5,22:06:13,Saturday
+Los Angeles,-10,22:06:14,Saturday
+Chicago,24,22:06:15,Saturday
+Philadelphia,34,22:06:16,Saturday
+Phoenix,34,22:06:17,Saturday
+Chicago,6,22:06:18,Saturday
+New York,25,22:06:19,Saturday
+Philadelphia,34,22:06:20,Saturday
+Chicago,15,22:06:21,Saturday
+Phoenix,-5,22:06:22,Saturday
+Phoenix,3,22:06:23,Saturday
+Philadelphia,8,22:06:24,Saturday
+Los Angeles,-7,22:06:25,Saturday
+Chicago,6,22:06:26,Saturday
+Chicago,-10,22:06:27,Saturday
+New York,21,22:06:28,Saturday
+Philadelphia,29,22:06:29,Saturday
+New York,2,22:06:30,Saturday
+Philadelphia,16,22:06:31,Saturday
+Los Angeles,38,22:06:32,Saturday
+Los Angeles,0,22:06:33,Saturday
+Houston,28,22:06:34,Saturday
+Houston,-8,22:06:35,Saturday
+Philadelphia,34,22:06:36,Saturday
+Los Angeles,29,22:06:37,Saturday
+Houston,33,22:06:38,Saturday
+Chicago,11,22:06:39,Saturday
+Phoenix,-4,22:06:40,Saturday
+Los Angeles,-5,22:06:41,Saturday
+Los Angeles,24,22:06:42,Saturday
+San Antonio,8,22:06:43,Saturday
+San Antonio,12,22:06:44,Saturday
+Chicago,9,22:06:45,Saturday
+Phoenix,13,22:06:46,Saturday
+Houston,37,22:06:47,Saturday
+Phoenix,6,22:06:48,Saturday
+Chicago,17,22:06:49,Saturday
+Chicago,29,22:06:50,Saturday
+Phoenix,16,22:06:51,Saturday
+Phoenix,25,22:06:52,Saturday
+Chicago,40,22:06:53,Saturday
+Los Angeles,17,22:06:54,Saturday
+Houston,39,22:06:55,Saturday
+New York,8,22:06:56,Saturday
+Houston,-8,22:06:57,Saturday
+San Antonio,8,22:06:58,Saturday
+New York,14,22:06:59,Saturday
+Chicago,-1,22:07:00,Saturday
+Los Angeles,-8,22:07:01,Saturday
+Los Angeles,29,22:07:02,Saturday
+Phoenix,11,22:07:03,Saturday
+San Antonio,1,22:07:04,Saturday
+Philadelphia,-8,22:07:05,Saturday
+Los Angeles,23,22:07:06,Saturday
+Phoenix,17,22:07:07,Saturday
+San Antonio,-2,22:07:08,Saturday
+Philadelphia,-6,22:07:09,Saturday
+Chicago,-9,22:07:10,Saturday
+Los Angeles,18,22:07:11,Saturday
+San Antonio,32,22:07:12,Saturday
+New York,-5,22:07:13,Saturday
+Chicago,26,22:07:14,Saturday
+Los Angeles,31,22:07:15,Saturday
+Los Angeles,-10,22:07:16,Saturday
+Chicago,18,22:07:17,Saturday
+San Antonio,10,22:07:18,Saturday
+New York,10,22:07:19,Saturday
+San Antonio,31,22:07:20,Saturday
+Philadelphia,-4,22:07:21,Saturday
+San Antonio,-6,22:07:22,Saturday
+Chicago,20,22:07:23,Saturday
+Los Angeles,40,22:07:24,Saturday
+New York,30,22:07:25,Saturday
+Phoenix,27,22:07:26,Saturday
+Philadelphia,3,22:07:27,Saturday
+Philadelphia,37,22:07:28,Saturday
+San Antonio,22,22:07:29,Saturday
+Chicago,26,22:07:30,Saturday
+Philadelphia,9,22:07:31,Saturday
+Houston,35,22:07:32,Saturday
+Phoenix,32,22:07:33,Saturday
+Phoenix,19,22:07:34,Saturday
+Chicago,29,22:07:35,Saturday
+Philadelphia,18,22:07:36,Saturday
+Chicago,16,22:07:37,Saturday
+San Antonio,-2,22:07:38,Saturday
+Los Angeles,-4,22:07:39,Saturday
+Houston,4,22:07:40,Saturday
+Phoenix,17,22:07:41,Saturday
+Houston,27,22:07:42,Saturday
+Houston,35,22:07:43,Saturday
+San Antonio,2,22:07:44,Saturday
+Houston,17,22:07:45,Saturday
+Los Angeles,15,22:07:46,Saturday
+Phoenix,11,22:07:47,Saturday
+Houston,-1,22:07:48,Saturday
+Chicago,-5,22:07:49,Saturday
+Chicago,-5,22:07:50,Saturday
+Los Angeles,-7,22:07:51,Saturday
+San Antonio,-9,22:07:52,Saturday
+Los Angeles,-8,22:07:53,Saturday
+Philadelphia,28,22:07:54,Saturday
+Phoenix,13,22:07:55,Saturday
+Los Angeles,24,22:07:56,Saturday
+Chicago,22,22:07:57,Saturday
+Chicago,29,22:07:58,Saturday
+Houston,-5,22:07:59,Saturday
+New York,40,22:08:00,Saturday
+Houston,-4,22:08:01,Saturday
+Philadelphia,40,22:08:02,Saturday
+San Antonio,-3,22:08:03,Saturday
+Phoenix,7,22:08:04,Saturday
+Phoenix,30,22:08:05,Saturday
+New York,-2,22:08:06,Saturday
+New York,4,22:08:07,Saturday
+Houston,24,22:08:08,Saturday
+Phoenix,29,22:08:09,Saturday
+Los Angeles,-5,22:08:10,Saturday
+San Antonio,38,22:08:11,Saturday
+Phoenix,35,22:08:12,Saturday
+Chicago,-8,22:08:13,Saturday
+New York,33,22:08:14,Saturday
+Philadelphia,37,22:08:15,Saturday
+New York,13,22:08:16,Saturday
+Houston,25,22:08:17,Saturday
+Chicago,-6,22:08:18,Saturday
+New York,4,22:08:19,Saturday
+Houston,17,22:08:20,Saturday
+Phoenix,24,22:08:21,Saturday
+Philadelphia,-5,22:08:22,Saturday
+Los Angeles,38,22:08:23,Saturday
+San Antonio,36,22:08:24,Saturday
+Houston,6,22:08:25,Saturday
+Phoenix,-5,22:08:26,Saturday
+San Antonio,36,22:08:27,Saturday
+Los Angeles,-1,22:08:28,Saturday
+New York,27,22:08:29,Saturday
+New York,16,22:08:30,Saturday
+Philadelphia,27,22:08:31,Saturday
+Philadelphia,-7,22:08:32,Saturday
+Los Angeles,18,22:08:33,Saturday
+Houston,33,22:08:34,Saturday
+Chicago,2,22:08:35,Saturday
+Chicago,38,22:08:36,Saturday
+Philadelphia,32,22:08:37,Saturday
+Chicago,19,22:08:38,Saturday
+San Antonio,19,22:08:39,Saturday
+Houston,0,22:08:40,Saturday
+Los Angeles,38,22:08:41,Saturday
+Philadelphia,10,22:08:42,Saturday
+Los Angeles,31,22:08:43,Saturday
+Houston,32,22:08:44,Saturday
+New York,27,22:08:45,Saturday
+New York,-6,22:08:46,Saturday
+Houston,40,22:08:47,Saturday
+Chicago,22,22:08:48,Saturday
+San Antonio,0,22:08:49,Saturday
+Philadelphia,7,22:08:50,Saturday
+Los Angeles,0,22:08:51,Saturday
+New York,25,22:08:52,Saturday
+Phoenix,25,22:08:53,Saturday
+New York,23,22:08:54,Saturday
+San Antonio,24,22:08:55,Saturday
+Houston,24,22:08:56,Saturday
+Houston,34,22:08:57,Saturday
+New York,-8,22:08:58,Saturday
+Houston,12,22:08:59,Saturday
+Philadelphia,12,22:09:00,Saturday
+New York,2,22:09:01,Saturday
+San Antonio,10,22:09:02,Saturday
+Los Angeles,-8,22:09:03,Saturday
+Houston,12,22:09:04,Saturday
+Chicago,6,22:09:05,Saturday
+Los Angeles,5,22:09:06,Saturday
+New York,-10,22:09:07,Saturday
+Chicago,19,22:09:08,Saturday
+New York,-4,22:09:09,Saturday
+Los Angeles,17,22:09:10,Saturday
+Phoenix,38,22:09:11,Saturday
+Chicago,8,22:09:12,Saturday
+Philadelphia,29,22:09:13,Saturday
+Chicago,14,22:09:14,Saturday
+Phoenix,31,22:09:15,Saturday
+Philadelphia,10,22:09:16,Saturday
+Philadelphia,30,22:09:17,Saturday
+Houston,33,22:09:18,Saturday
+Los Angeles,8,22:09:19,Saturday
+Los Angeles,21,22:09:20,Saturday
+Los Angeles,-4,22:09:21,Saturday
+Los Angeles,40,22:09:22,Saturday
+Houston,23,22:09:23,Saturday
+Philadelphia,-1,22:09:24,Saturday
+Houston,6,22:09:25,Saturday
+San Antonio,31,22:09:26,Saturday
+San Antonio,34,22:09:27,Saturday
+Phoenix,35,22:09:28,Saturday
+Houston,3,22:09:29,Saturday
+Houston,37,22:09:30,Saturday
+Chicago,26,22:09:31,Saturday
+New York,25,22:09:32,Saturday
+San Antonio,11,22:09:33,Saturday
+Chicago,11,22:09:34,Saturday
+Phoenix,39,22:09:35,Saturday
+Phoenix,-9,22:09:36,Saturday
+Philadelphia,20,22:09:37,Saturday
+Houston,-7,22:09:38,Saturday
+Los Angeles,39,22:09:39,Saturday
+Philadelphia,29,22:09:40,Saturday
+Chicago,4,22:09:41,Saturday
+San Antonio,12,22:09:42,Saturday
+San Antonio,12,22:09:43,Saturday
+Chicago,34,22:09:44,Saturday
+San Antonio,39,22:09:45,Saturday
+Houston,-4,22:09:46,Saturday
+Houston,34,22:09:47,Saturday
+Philadelphia,2,22:09:48,Saturday
+Los Angeles,-7,22:09:49,Saturday
+Philadelphia,8,22:09:50,Saturday
+Houston,7,22:09:51,Saturday
+Philadelphia,33,22:09:52,Saturday
+San Antonio,23,22:09:53,Saturday
+Houston,37,22:09:54,Saturday
+Houston,22,22:09:55,Saturday
+Philadelphia,-1,22:09:56,Saturday
+New York,-10,22:09:57,Saturday
+San Antonio,0,22:09:58,Saturday
+San Antonio,40,22:09:59,Saturday
+Phoenix,19,22:10:00,Saturday
+Houston,35,22:10:02,Saturday
+Chicago,36,22:10:03,Saturday
+Philadelphia,-2,22:10:04,Saturday
+Philadelphia,14,22:10:05,Saturday
+Philadelphia,10,22:10:06,Saturday
+Houston,0,22:10:07,Saturday
+Houston,-8,22:10:08,Saturday
+Houston,32,22:10:09,Saturday
+Houston,24,22:10:10,Saturday
+San Antonio,16,22:10:11,Saturday
+Philadelphia,-10,22:10:12,Saturday
+New York,36,22:10:13,Saturday
+San Antonio,7,22:10:14,Saturday
+New York,24,22:10:15,Saturday
+Los Angeles,33,22:10:16,Saturday
+Phoenix,25,22:10:17,Saturday
+Houston,-7,22:10:18,Saturday
+Philadelphia,9,22:10:19,Saturday
+Chicago,28,22:10:20,Saturday
+Philadelphia,17,22:10:21,Saturday
+Houston,3,22:10:22,Saturday
+New York,17,22:10:23,Saturday
+New York,27,22:10:24,Saturday
+New York,-4,22:10:25,Saturday
+Chicago,36,22:10:26,Saturday
+Chicago,28,22:10:27,Saturday
+New York,-6,22:10:28,Saturday
+San Antonio,-9,22:10:29,Saturday
+Chicago,40,22:10:30,Saturday
+Los Angeles,37,22:10:31,Saturday
+Los Angeles,31,22:10:32,Saturday
+Phoenix,8,22:10:33,Saturday
+Chicago,33,22:10:34,Saturday
+Philadelphia,-8,22:10:35,Saturday
+Los Angeles,37,22:10:36,Saturday
+Los Angeles,-3,22:10:37,Saturday
+Houston,26,22:10:38,Saturday
+Phoenix,0,22:10:39,Saturday
+Los Angeles,15,22:10:40,Saturday
+New York,23,22:10:41,Saturday
+Philadelphia,36,22:10:42,Saturday
+Philadelphia,32,22:10:43,Saturday
+Houston,4,22:10:44,Saturday
+Houston,0,22:10:45,Saturday
+Houston,24,22:10:46,Saturday
+Los Angeles,14,22:10:47,Saturday
+Los Angeles,30,22:10:48,Saturday
+Houston,-4,22:10:49,Saturday
+Los Angeles,23,22:10:50,Saturday
+Chicago,17,22:10:51,Saturday
+Houston,34,22:10:52,Saturday
+San Antonio,11,22:10:53,Saturday
+San Antonio,23,22:10:54,Saturday
+Chicago,22,22:10:55,Saturday
+Philadelphia,-10,22:10:56,Saturday
+New York,-6,22:10:57,Saturday
+Los Angeles,15,22:10:58,Saturday
+Houston,-3,22:10:59,Saturday
+Chicago,4,22:11:00,Saturday
+San Antonio,31,22:11:01,Saturday
+Los Angeles,8,22:11:02,Saturday
+Chicago,-3,22:11:03,Saturday
+Chicago,-5,22:11:04,Saturday
+Philadelphia,26,22:11:05,Saturday
+New York,18,22:11:06,Saturday
+Philadelphia,32,22:11:07,Saturday
+Chicago,6,22:11:08,Saturday
+Chicago,-6,22:11:09,Saturday
+Los Angeles,10,22:11:10,Saturday
+Philadelphia,39,22:11:11,Saturday
+Los Angeles,31,22:11:12,Saturday
+Houston,-4,22:11:13,Saturday
+Phoenix,4,22:11:14,Saturday
+New York,-10,22:11:15,Saturday
+San Antonio,3,22:11:16,Saturday
+Chicago,-6,22:11:17,Saturday
+Phoenix,-1,22:11:18,Saturday
+Phoenix,20,22:11:19,Saturday
+Los Angeles,1,22:11:20,Saturday
+Los Angeles,27,22:11:21,Saturday
+Phoenix,3,22:11:22,Saturday
+Philadelphia,31,22:11:23,Saturday
+New York,-1,22:11:24,Saturday
+San Antonio,19,22:11:25,Saturday
+New York,-10,22:11:26,Saturday
+Chicago,14,22:11:27,Saturday
+Houston,26,22:11:28,Saturday
+San Antonio,26,22:11:29,Saturday
+Los Angeles,23,22:11:30,Saturday
+Chicago,11,22:11:31,Saturday
+Chicago,-4,22:11:32,Saturday
+Houston,6,22:11:33,Saturday
+Chicago,16,22:11:34,Saturday
+New York,29,22:11:35,Saturday
+New York,4,22:11:36,Saturday
+Phoenix,33,22:11:37,Saturday
+San Antonio,22,22:11:38,Saturday
+New York,-5,22:11:39,Saturday
+Los Angeles,11,22:11:40,Saturday
+Phoenix,30,22:11:41,Saturday
+Phoenix,-6,22:11:42,Saturday
+Phoenix,26,22:11:43,Saturday
+Los Angeles,7,22:11:44,Saturday
+San Antonio,12,22:11:45,Saturday
+Phoenix,3,22:11:46,Saturday
+Philadelphia,17,22:11:47,Saturday
+Philadelphia,32,22:11:48,Saturday
+San Antonio,40,22:11:49,Saturday
+Los Angeles,-6,22:11:50,Saturday
+New York,-1,22:11:51,Saturday
+Philadelphia,-3,22:11:52,Saturday
+Houston,0,22:11:53,Saturday
+Philadelphia,17,22:11:54,Saturday
+Chicago,-4,22:11:55,Saturday
+Houston,18,22:11:56,Saturday
+Philadelphia,28,22:11:57,Saturday
+Philadelphia,36,22:11:58,Saturday
+San Antonio,26,22:11:59,Saturday
+Phoenix,38,22:12:00,Saturday
+Houston,10,22:12:01,Saturday
+Los Angeles,30,22:12:02,Saturday
+Philadelphia,14,22:12:03,Saturday
+New York,12,22:12:04,Saturday
+Los Angeles,10,22:12:05,Saturday
+Chicago,17,22:12:06,Saturday
+Philadelphia,13,22:12:07,Saturday
+Los Angeles,18,22:12:08,Saturday
+San Antonio,-7,22:12:09,Saturday
+New York,11,22:12:10,Saturday
+Los Angeles,32,22:12:11,Saturday
+Philadelphia,-6,22:12:12,Saturday
+San Antonio,35,22:12:13,Saturday
+New York,35,22:12:14,Saturday
+Chicago,13,22:12:15,Saturday
+Los Angeles,13,22:12:16,Saturday
+Houston,36,22:12:17,Saturday
+Los Angeles,-6,22:12:18,Saturday
+San Antonio,17,22:12:19,Saturday
+Phoenix,9,22:12:20,Saturday
+Philadelphia,35,22:12:21,Saturday
+San Antonio,-7,22:12:22,Saturday
+Phoenix,39,22:12:23,Saturday
+Philadelphia,27,22:12:24,Saturday
+Philadelphia,7,22:12:25,Saturday
+Phoenix,33,22:12:26,Saturday
+San Antonio,8,22:12:27,Saturday
+Phoenix,31,22:12:28,Saturday
+San Antonio,13,22:12:29,Saturday
+New York,10,22:12:30,Saturday
+San Antonio,15,22:12:31,Saturday
+New York,35,22:12:32,Saturday
+Houston,-4,22:12:33,Saturday
+Phoenix,-9,22:12:34,Saturday
+Chicago,-4,22:12:35,Saturday
+Los Angeles,22,22:12:36,Saturday
+New York,12,22:12:37,Saturday
+Houston,11,22:12:38,Saturday
+Phoenix,-6,22:12:39,Saturday
+San Antonio,31,22:12:40,Saturday
+Phoenix,21,22:12:41,Saturday
+Phoenix,-8,22:12:42,Saturday
+Los Angeles,38,22:12:43,Saturday
+Los Angeles,-5,22:12:44,Saturday
+Philadelphia,31,22:12:45,Saturday
+Los Angeles,-5,22:12:46,Saturday
+Houston,2,22:12:47,Saturday
+Phoenix,32,22:12:48,Saturday
+New York,17,22:12:49,Saturday
+San Antonio,22,22:12:50,Saturday
+Phoenix,17,22:12:51,Saturday
+New York,16,22:12:52,Saturday
+Phoenix,35,22:12:53,Saturday
+Phoenix,2,22:12:54,Saturday
+Philadelphia,5,22:12:55,Saturday
+Houston,12,22:12:56,Saturday
+Houston,15,22:12:57,Saturday
+Houston,30,22:12:58,Saturday
+Houston,14,22:12:59,Saturday
+Los Angeles,9,22:13:00,Saturday
+Chicago,25,22:13:01,Saturday
+San Antonio,31,22:13:02,Saturday
+Houston,35,22:13:03,Saturday
+Phoenix,10,22:13:04,Saturday
+Los Angeles,35,22:13:05,Saturday
+Philadelphia,17,22:13:06,Saturday
+Philadelphia,28,22:13:07,Saturday
+New York,-7,22:13:08,Saturday
+New York,-5,22:13:09,Saturday
+Houston,8,22:13:10,Saturday
+Philadelphia,39,22:13:11,Saturday
+Houston,13,22:13:12,Saturday
+San Antonio,28,22:13:13,Saturday
+Chicago,28,22:13:14,Saturday
+New York,17,22:13:15,Saturday
+Los Angeles,7,22:13:16,Saturday
+New York,3,22:13:17,Saturday
+Chicago,-10,22:13:18,Saturday
+Houston,19,22:13:19,Saturday
+Philadelphia,14,22:13:20,Saturday
+Phoenix,33,22:13:21,Saturday
+Los Angeles,-2,22:13:22,Saturday
+Los Angeles,29,22:13:23,Saturday
+Chicago,14,22:13:24,Saturday
+San Antonio,22,22:13:25,Saturday
+New York,22,22:13:26,Saturday
+New York,-4,22:13:27,Saturday
+Los Angeles,4,22:13:28,Saturday
+New York,1,22:13:29,Saturday
+Philadelphia,25,22:13:30,Saturday
+San Antonio,22,22:13:31,Saturday
+New York,21,22:13:32,Saturday
+Philadelphia,-4,22:13:33,Saturday
+Philadelphia,6,22:13:34,Saturday
+Philadelphia,5,22:13:35,Saturday
+New York,5,22:13:36,Saturday
+San Antonio,38,22:13:37,Saturday
+Chicago,-10,22:13:38,Saturday
+Los Angeles,35,22:13:39,Saturday
+San Antonio,-9,22:13:40,Saturday
+Los Angeles,-6,22:13:41,Saturday
+Philadelphia,-2,22:13:42,Saturday
+San Antonio,16,22:13:43,Saturday
+Phoenix,15,22:13:44,Saturday
+Los Angeles,29,22:13:45,Saturday
+Philadelphia,2,22:13:46,Saturday
+Chicago,30,22:13:47,Saturday
+Phoenix,-10,22:13:48,Saturday
+Houston,35,22:13:49,Saturday
+Philadelphia,26,22:13:50,Saturday
+New York,-4,22:13:51,Saturday
+Houston,-4,22:13:52,Saturday
+Los Angeles,-3,22:13:53,Saturday
+Philadelphia,18,22:13:54,Saturday
+Houston,17,22:13:55,Saturday
+New York,2,22:13:56,Saturday
+Los Angeles,10,22:13:57,Saturday
+Los Angeles,37,22:13:58,Saturday
+San Antonio,33,22:13:59,Saturday
+Phoenix,21,22:14:00,Saturday
+Los Angeles,6,22:14:01,Saturday
+Philadelphia,6,22:14:02,Saturday
+Houston,24,22:14:03,Saturday
+Los Angeles,0,22:14:04,Saturday
+Houston,-1,22:14:06,Saturday
+San Antonio,-4,22:14:07,Saturday
+Philadelphia,14,22:14:08,Saturday
+Los Angeles,11,22:14:09,Saturday
+Houston,19,22:14:10,Saturday
+Houston,27,22:14:11,Saturday
+New York,-3,22:14:12,Saturday
+Philadelphia,8,22:14:13,Saturday
+San Antonio,33,22:14:14,Saturday
+Houston,10,22:14:15,Saturday
+San Antonio,14,22:14:16,Saturday
+Chicago,-2,22:14:17,Saturday
+San Antonio,26,22:14:18,Saturday
+New York,26,22:14:19,Saturday
+Chicago,15,22:14:20,Saturday
+Phoenix,-4,22:14:21,Saturday
+Los Angeles,28,22:14:22,Saturday
+New York,-8,22:14:23,Saturday
+San Antonio,3,22:14:24,Saturday
+Houston,14,22:14:25,Saturday
+Los Angeles,6,22:14:26,Saturday
+Phoenix,36,22:14:27,Saturday
+Houston,5,22:14:28,Saturday
+Philadelphia,26,22:14:29,Saturday
+San Antonio,12,22:14:30,Saturday
+Philadelphia,31,22:14:31,Saturday
+San Antonio,27,22:14:32,Saturday
+New York,-1,22:14:33,Saturday
+Houston,32,22:14:34,Saturday
+Philadelphia,7,22:14:35,Saturday
+Houston,28,22:14:36,Saturday
+Philadelphia,14,22:14:37,Saturday
+Los Angeles,27,22:14:38,Saturday
+Phoenix,8,22:14:39,Saturday
+Phoenix,21,22:14:40,Saturday
+Chicago,1,22:14:41,Saturday
+Philadelphia,38,22:14:42,Saturday
+Chicago,39,22:14:43,Saturday
+New York,14,22:14:44,Saturday
+San Antonio,12,22:14:45,Saturday
+Chicago,3,22:14:46,Saturday
+Houston,3,22:14:47,Saturday
+Houston,25,22:14:48,Saturday
+Phoenix,2,22:14:49,Saturday
+Phoenix,36,22:14:50,Saturday
+Chicago,30,22:14:51,Saturday
+Phoenix,25,22:14:52,Saturday
+Houston,36,22:14:53,Saturday
+San Antonio,17,22:14:54,Saturday
+Los Angeles,-5,22:14:55,Saturday
+Phoenix,-5,22:14:56,Saturday
+Phoenix,32,22:14:57,Saturday
+Houston,22,22:14:58,Saturday
+New York,4,22:14:59,Saturday
+Philadelphia,-9,22:15:00,Saturday
+Los Angeles,3,22:15:01,Saturday
+Phoenix,14,22:15:02,Saturday
+Houston,16,22:15:03,Saturday
+Chicago,-8,22:15:04,Saturday
+Los Angeles,24,22:15:05,Saturday
+New York,39,22:15:06,Saturday
+New York,12,22:15:07,Saturday
+Houston,3,22:15:08,Saturday
+Houston,-4,22:15:09,Saturday
+Houston,24,22:15:10,Saturday
+New York,35,22:15:11,Saturday
+San Antonio,7,22:15:12,Saturday
+Houston,14,22:15:13,Saturday
+Houston,27,22:15:14,Saturday
+Los Angeles,15,22:15:15,Saturday
+Los Angeles,16,22:15:16,Saturday
+Los Angeles,34,22:15:17,Saturday
+Philadelphia,10,22:15:18,Saturday
+New York,8,22:15:19,Saturday
+Houston,20,22:15:20,Saturday
+Houston,-3,22:15:21,Saturday
+Philadelphia,-1,22:15:22,Saturday
+New York,3,22:15:23,Saturday
+Philadelphia,-3,22:15:24,Saturday
+Phoenix,11,22:15:25,Saturday
+New York,26,22:15:26,Saturday
+Philadelphia,2,22:15:27,Saturday
+New York,17,22:15:28,Saturday
+New York,8,22:15:29,Saturday
+Phoenix,-6,22:15:30,Saturday
+Phoenix,38,22:15:31,Saturday
+Chicago,31,22:15:32,Saturday
+Chicago,38,22:15:33,Saturday
+Chicago,33,22:15:34,Saturday
+San Antonio,8,22:15:35,Saturday
+New York,11,22:15:36,Saturday
+Chicago,2,22:15:37,Saturday
+Philadelphia,-7,22:15:38,Saturday
+Philadelphia,16,22:15:39,Saturday
+Chicago,28,22:15:40,Saturday
+Philadelphia,40,22:15:41,Saturday
+Phoenix,36,22:15:42,Saturday
+Philadelphia,15,22:15:43,Saturday
+Philadelphia,27,22:15:44,Saturday
+New York,10,22:15:45,Saturday
+New York,-1,22:15:46,Saturday
+Phoenix,34,22:15:47,Saturday
+New York,23,22:15:48,Saturday
+San Antonio,-9,22:15:49,Saturday
+Philadelphia,26,22:15:50,Saturday
+Philadelphia,36,22:15:51,Saturday
+New York,26,22:15:52,Saturday
+Los Angeles,15,22:15:53,Saturday
+New York,18,22:15:54,Saturday
+Chicago,-4,22:15:55,Saturday
+Houston,3,22:15:56,Saturday
+Phoenix,40,22:15:57,Saturday
+New York,22,22:15:58,Saturday
+Philadelphia,3,22:15:59,Saturday
+Phoenix,19,22:16:00,Saturday
+New York,9,22:16:01,Saturday
+Houston,9,22:16:02,Saturday
+Phoenix,9,22:16:03,Saturday
+Los Angeles,13,22:16:04,Saturday
+San Antonio,5,22:16:05,Saturday
+San Antonio,30,22:16:06,Saturday
+Phoenix,1,22:16:07,Saturday
+Houston,27,22:16:08,Saturday
+Los Angeles,31,22:16:09,Saturday
+Chicago,35,22:16:10,Saturday
+Los Angeles,0,22:16:11,Saturday
+New York,23,22:16:12,Saturday
+Houston,3,22:16:13,Saturday
+Philadelphia,25,22:16:14,Saturday
+Houston,37,22:16:15,Saturday
+Los Angeles,10,22:16:16,Saturday
+Chicago,22,22:16:17,Saturday
+Houston,21,22:16:18,Saturday
+Houston,-10,22:16:19,Saturday
+Philadelphia,27,22:16:20,Saturday
+Chicago,7,22:16:21,Saturday
+Philadelphia,0,22:16:22,Saturday
+Chicago,4,22:16:23,Saturday
+Philadelphia,33,22:16:24,Saturday
+Houston,24,22:16:25,Saturday
+Chicago,18,22:16:26,Saturday
+Houston,0,22:16:27,Saturday
+Phoenix,10,22:16:28,Saturday
+Houston,35,22:16:29,Saturday
+Phoenix,-10,22:16:30,Saturday
+Los Angeles,22,22:16:31,Saturday
+Chicago,33,22:16:32,Saturday
+Phoenix,-3,22:16:33,Saturday
+Chicago,9,22:16:34,Saturday
+Los Angeles,-9,22:16:35,Saturday
+New York,-8,22:16:36,Saturday
+Chicago,35,22:16:37,Saturday
+Phoenix,28,22:16:38,Saturday
+Houston,31,22:16:39,Saturday
+Los Angeles,-9,22:16:40,Saturday
+Chicago,4,22:16:41,Saturday
+Phoenix,27,22:16:42,Saturday
+Philadelphia,25,22:16:43,Saturday
+Phoenix,20,22:16:44,Saturday
+New York,6,22:16:45,Saturday
+New York,31,22:16:46,Saturday
+New York,31,22:16:47,Saturday
+Los Angeles,0,22:16:48,Saturday
+Philadelphia,25,22:16:49,Saturday
+Los Angeles,32,22:16:50,Saturday
+New York,28,22:16:51,Saturday
+San Antonio,6,22:16:52,Saturday
+San Antonio,30,22:16:53,Saturday
+New York,33,22:16:54,Saturday
+Philadelphia,32,22:16:55,Saturday
+Houston,11,22:16:56,Saturday
+Philadelphia,5,22:16:57,Saturday
+New York,-9,22:16:58,Saturday
+Philadelphia,25,22:16:59,Saturday
+Chicago,27,22:17:00,Saturday
+Los Angeles,11,22:17:01,Saturday
+San Antonio,12,22:17:02,Saturday
+New York,12,22:17:03,Saturday
+Chicago,3,22:17:04,Saturday
+New York,15,22:17:05,Saturday
+Philadelphia,-4,22:17:06,Saturday
+San Antonio,13,22:17:07,Saturday
+Houston,24,22:17:08,Saturday
+Los Angeles,28,22:17:09,Saturday
+Philadelphia,22,22:17:10,Saturday
+Phoenix,22,22:17:11,Saturday
+Philadelphia,33,22:17:12,Saturday
+Houston,24,22:17:13,Saturday
+Los Angeles,-1,22:17:14,Saturday
+New York,14,22:17:15,Saturday
+Los Angeles,18,22:17:16,Saturday
+Chicago,15,22:17:17,Saturday
+Philadelphia,39,22:17:18,Saturday
+New York,36,22:17:19,Saturday
+San Antonio,26,22:17:20,Saturday
+Los Angeles,18,22:17:21,Saturday
+Philadelphia,27,22:17:22,Saturday
+New York,9,22:17:23,Saturday
+New York,5,22:17:24,Saturday
+Philadelphia,7,22:17:25,Saturday
+San Antonio,-3,22:17:26,Saturday
+Houston,33,22:17:27,Saturday
+Los Angeles,26,22:17:28,Saturday
+Los Angeles,14,22:17:29,Saturday
+New York,-6,22:17:30,Saturday
+New York,-10,22:17:31,Saturday
+Philadelphia,31,22:17:32,Saturday
+Chicago,27,22:17:33,Saturday
+Los Angeles,11,22:17:34,Saturday
+Houston,9,22:17:35,Saturday
+Chicago,25,22:17:36,Saturday
+New York,1,22:17:37,Saturday
+New York,25,22:17:38,Saturday
+Phoenix,28,22:17:39,Saturday
+Los Angeles,26,22:17:40,Saturday
+Phoenix,27,22:17:41,Saturday
+San Antonio,33,22:17:42,Saturday
+San Antonio,8,22:17:43,Saturday
+Houston,-4,22:17:44,Saturday
+Chicago,12,22:17:45,Saturday
+New York,-10,22:17:46,Saturday
+New York,28,22:17:47,Saturday
+Philadelphia,24,22:17:48,Saturday
+Philadelphia,16,22:17:49,Saturday
+Houston,29,22:17:50,Saturday
+Houston,25,22:17:51,Saturday
+New York,16,22:17:52,Saturday
+Los Angeles,31,22:17:53,Saturday
+San Antonio,40,22:17:54,Saturday
+New York,25,22:17:55,Saturday
+Philadelphia,15,22:17:56,Saturday
+Phoenix,-8,22:17:57,Saturday
+Chicago,-7,22:17:58,Saturday
+Chicago,16,22:17:59,Saturday
+San Antonio,21,22:18:00,Saturday
+Phoenix,30,22:18:01,Saturday
+Philadelphia,19,22:18:02,Saturday
+Houston,7,22:18:03,Saturday
+Philadelphia,35,22:18:04,Saturday
+New York,-4,22:18:05,Saturday
+Philadelphia,-5,22:18:07,Saturday
+San Antonio,0,22:18:08,Saturday
+Chicago,25,22:18:09,Saturday
+Phoenix,-7,22:18:10,Saturday
+Los Angeles,34,22:18:11,Saturday
+Philadelphia,-5,22:18:12,Saturday
+Los Angeles,22,22:18:13,Saturday
+New York,28,22:18:14,Saturday
+Philadelphia,13,22:18:15,Saturday
+Los Angeles,17,22:18:16,Saturday
+Chicago,16,22:18:17,Saturday
+Los Angeles,9,22:18:18,Saturday
+Philadelphia,-8,22:18:19,Saturday
+New York,15,22:18:20,Saturday
+Philadelphia,6,22:18:21,Saturday
+Philadelphia,-7,22:18:22,Saturday
+New York,32,22:18:23,Saturday
+Los Angeles,0,22:18:24,Saturday
+Chicago,38,22:18:25,Saturday
+Philadelphia,29,22:18:26,Saturday
+San Antonio,14,22:18:27,Saturday
+Houston,2,22:18:28,Saturday
+San Antonio,39,22:18:29,Saturday
+New York,2,22:18:30,Saturday
+Phoenix,31,22:18:31,Saturday
+New York,38,22:18:32,Saturday
+Houston,33,22:18:33,Saturday
+New York,9,22:18:34,Saturday
+New York,29,22:18:35,Saturday
+Los Angeles,33,22:18:36,Saturday
+New York,23,22:18:37,Saturday
+Philadelphia,35,22:18:38,Saturday
+Phoenix,1,22:18:39,Saturday
+Philadelphia,-6,22:18:40,Saturday
+San Antonio,5,22:18:41,Saturday
+Chicago,5,22:18:42,Saturday
+Los Angeles,29,22:18:43,Saturday
+Los Angeles,-9,22:18:44,Saturday
+Chicago,2,22:18:45,Saturday
+Los Angeles,35,22:18:46,Saturday
+Houston,14,22:18:47,Saturday
+Houston,15,22:18:48,Saturday
+Phoenix,8,22:18:49,Saturday
+Chicago,-1,22:18:50,Saturday
+Phoenix,32,22:18:51,Saturday
+New York,11,22:18:52,Saturday
+San Antonio,11,22:18:53,Saturday
+Chicago,36,22:18:54,Saturday
+San Antonio,-4,22:18:55,Saturday
+Philadelphia,11,22:18:56,Saturday
+Chicago,-5,22:18:57,Saturday
+Phoenix,35,22:18:58,Saturday
+New York,-2,22:18:59,Saturday
+Houston,9,22:19:00,Saturday
+San Antonio,-4,22:19:01,Saturday
+Phoenix,15,22:19:02,Saturday
+Los Angeles,11,22:19:03,Saturday
+Phoenix,3,22:19:04,Saturday
+San Antonio,23,22:19:05,Saturday
+Chicago,16,22:19:06,Saturday
+Philadelphia,-5,22:19:07,Saturday
+Chicago,19,22:19:08,Saturday
+New York,-5,22:19:09,Saturday
+Philadelphia,26,22:19:10,Saturday
+Los Angeles,18,22:19:11,Saturday
+San Antonio,23,22:19:12,Saturday
+New York,-5,22:19:13,Saturday
+San Antonio,20,22:19:14,Saturday
+Chicago,19,22:19:15,Saturday
+Phoenix,40,22:19:16,Saturday
+Houston,10,22:19:17,Saturday
+Phoenix,-10,22:19:18,Saturday
+Houston,9,22:19:19,Saturday
+Chicago,31,22:19:20,Saturday
+New York,38,22:19:21,Saturday
+Los Angeles,21,22:19:22,Saturday
+Philadelphia,30,22:19:23,Saturday
+Chicago,2,22:19:24,Saturday
+Philadelphia,2,22:19:25,Saturday
+Phoenix,1,22:19:26,Saturday
+Chicago,3,22:19:27,Saturday
+San Antonio,-2,22:19:28,Saturday
+Philadelphia,31,22:19:29,Saturday
+Phoenix,36,22:19:30,Saturday
+Los Angeles,-2,22:19:31,Saturday
+New York,4,22:19:32,Saturday
+Houston,34,22:19:33,Saturday
+New York,4,22:19:34,Saturday
+Philadelphia,11,22:19:35,Saturday
+Los Angeles,13,22:19:36,Saturday
+Philadelphia,9,22:19:37,Saturday
+Chicago,-9,22:19:38,Saturday
+Houston,18,22:19:39,Saturday
+San Antonio,33,22:19:40,Saturday
+Phoenix,-8,22:19:41,Saturday
+Phoenix,8,22:19:42,Saturday
+Phoenix,3,22:19:43,Saturday
+Chicago,2,22:19:44,Saturday
+Chicago,36,22:19:45,Saturday
+Phoenix,21,22:19:46,Saturday
+New York,-8,22:19:47,Saturday
+San Antonio,1,22:19:48,Saturday
+Los Angeles,5,22:19:49,Saturday
+Chicago,22,22:19:50,Saturday
+Los Angeles,31,22:19:51,Saturday
+San Antonio,0,22:19:52,Saturday
+Los Angeles,-3,22:19:53,Saturday
+Chicago,24,22:19:54,Saturday
+Chicago,28,22:19:55,Saturday
+Houston,29,22:19:56,Saturday
+Chicago,17,22:19:57,Saturday
+Philadelphia,-8,22:19:58,Saturday
+San Antonio,2,22:19:59,Saturday
+Philadelphia,16,22:20:00,Saturday
+San Antonio,6,22:20:01,Saturday
+Philadelphia,-4,22:20:02,Saturday
+Los Angeles,-8,22:20:03,Saturday
+San Antonio,-9,22:20:04,Saturday
+Chicago,-6,22:20:05,Saturday
+Chicago,22,22:20:06,Saturday
+San Antonio,-7,22:20:07,Saturday
+New York,27,22:20:08,Saturday
+Philadelphia,-1,22:20:09,Saturday
+Los Angeles,5,22:20:10,Saturday
+New York,-8,22:20:11,Saturday
+Houston,-10,22:20:12,Saturday
+Los Angeles,-8,22:20:13,Saturday
+San Antonio,29,22:20:14,Saturday
+Houston,32,22:20:15,Saturday
+Chicago,13,22:20:16,Saturday
+Los Angeles,-9,22:20:17,Saturday
+Phoenix,19,22:20:18,Saturday
+Chicago,40,22:20:19,Saturday
+Houston,11,22:20:20,Saturday
+New York,27,22:20:21,Saturday
+Chicago,7,22:20:22,Saturday
+Chicago,20,22:20:23,Saturday
+Los Angeles,14,22:20:24,Saturday
+San Antonio,13,22:20:25,Saturday
+Philadelphia,-3,22:20:26,Saturday
+Los Angeles,-1,22:20:27,Saturday
+Phoenix,39,22:20:28,Saturday
+New York,38,22:20:29,Saturday
+Phoenix,21,22:20:30,Saturday
+Chicago,8,22:20:31,Saturday
+Philadelphia,21,22:20:32,Saturday
+Los Angeles,14,22:20:33,Saturday
+Los Angeles,39,22:20:34,Saturday
+Houston,29,22:20:35,Saturday
+Phoenix,6,22:20:36,Saturday
+New York,-4,22:20:37,Saturday
+Philadelphia,13,22:20:38,Saturday
+Philadelphia,-10,22:20:39,Saturday
+Houston,-3,22:20:40,Saturday
+Houston,8,22:20:41,Saturday
+Los Angeles,11,22:20:42,Saturday
+Chicago,11,22:20:43,Saturday
+Chicago,-10,22:20:44,Saturday
+Houston,36,22:20:45,Saturday
+San Antonio,-1,22:20:46,Saturday
+Philadelphia,-6,22:20:47,Saturday
+Phoenix,5,22:20:48,Saturday
+Philadelphia,2,22:20:49,Saturday
+Houston,39,22:20:50,Saturday
+San Antonio,1,22:20:51,Saturday
+Chicago,36,22:20:52,Saturday
+Philadelphia,-7,22:20:53,Saturday
+San Antonio,14,22:20:54,Saturday
+Los Angeles,5,22:20:55,Saturday
+New York,25,22:20:56,Saturday
+Chicago,9,22:20:57,Saturday
+New York,7,22:20:58,Saturday
+Philadelphia,15,22:20:59,Saturday
+Los Angeles,40,22:21:00,Saturday
+Philadelphia,0,22:21:01,Saturday
+Houston,-10,22:21:02,Saturday
+Houston,5,22:21:03,Saturday
+Los Angeles,-9,22:21:04,Saturday
+San Antonio,16,22:21:05,Saturday
+Chicago,31,22:21:06,Saturday
+Phoenix,-8,22:21:07,Saturday
+Houston,12,22:21:08,Saturday
+Philadelphia,15,22:21:09,Saturday
+Phoenix,15,22:21:10,Saturday
+New York,5,22:21:11,Saturday
+Philadelphia,-6,22:21:12,Saturday
+San Antonio,-1,22:21:13,Saturday
+Los Angeles,14,22:21:14,Saturday
+New York,11,22:21:15,Saturday
+Houston,38,22:21:16,Saturday
+Philadelphia,2,22:21:17,Saturday
+Phoenix,29,22:21:18,Saturday
+Houston,-1,22:21:19,Saturday
+Chicago,29,22:21:20,Saturday
+San Antonio,10,22:21:21,Saturday
+New York,13,22:21:22,Saturday
+San Antonio,-6,22:21:23,Saturday
+San Antonio,4,22:21:24,Saturday
+Los Angeles,35,22:21:25,Saturday
+Houston,4,22:21:26,Saturday
+Philadelphia,36,22:21:27,Saturday
+Phoenix,8,22:21:28,Saturday
+San Antonio,-4,22:21:29,Saturday
+Philadelphia,14,22:21:30,Saturday
+Philadelphia,33,22:26:59,Saturday
+San Antonio,19,22:27:00,Saturday
+Philadelphia,35,22:27:01,Saturday
+Chicago,28,22:27:02,Saturday
+Los Angeles,38,22:27:03,Saturday
+Philadelphia,10,22:27:04,Saturday
+Philadelphia,1,22:27:05,Saturday
+Houston,14,22:27:06,Saturday
+Houston,-10,22:27:07,Saturday
+Philadelphia,36,22:27:08,Saturday
+New York,35,22:27:09,Saturday
+Phoenix,-1,22:27:10,Saturday
+Los Angeles,17,22:27:11,Saturday
+Chicago,14,22:27:12,Saturday
+San Antonio,30,22:27:13,Saturday
+Phoenix,-1,22:27:14,Saturday
+Phoenix,20,22:27:15,Saturday
+Los Angeles,21,22:27:16,Saturday
+Philadelphia,-6,22:27:17,Saturday
+Houston,21,22:27:18,Saturday
+Houston,4,22:27:19,Saturday
+Phoenix,22,22:27:20,Saturday
+New York,30,22:27:21,Saturday
+Phoenix,31,22:27:22,Saturday
+San Antonio,36,22:27:23,Saturday
+Chicago,-10,22:27:24,Saturday
+Phoenix,-8,22:27:25,Saturday
+San Antonio,-7,22:27:26,Saturday
+San Antonio,35,22:27:27,Saturday
+New York,27,22:35:00,Saturday
+New York,16,22:35:01,Saturday
+Phoenix,6,22:35:02,Saturday
+Los Angeles,6,22:35:03,Saturday
+Phoenix,22,22:35:04,Saturday
+New York,28,22:35:05,Saturday
+Philadelphia,5,22:35:06,Saturday
+Chicago,25,22:35:07,Saturday
+Phoenix,33,22:52:17,Saturday
+Philadelphia,20,22:52:18,Saturday
+New York,29,22:52:19,Saturday
+Chicago,10,22:52:20,Saturday
+Philadelphia,-6,22:52:21,Saturday
+New York,18,22:52:22,Saturday
+Houston,39,23:09:37,Saturday
+Houston,-2,23:09:38,Saturday
+Los Angeles,18,23:09:39,Saturday
+New York,39,23:09:40,Saturday
+New York,15,23:09:41,Saturday
+Los Angeles,24,23:09:42,Saturday
+New York,10,23:26:14,Saturday
+Houston,32,23:26:15,Saturday
+New York,-4,23:26:16,Saturday
+Los Angeles,-5,23:26:17,Saturday
+Philadelphia,-9,23:26:18,Saturday
+Chicago,30,23:26:19,Saturday
+Chicago,21,23:26:20,Saturday
+Los Angeles,18,23:39:07,Saturday
+Houston,4,23:39:08,Saturday
+San Antonio,33,23:39:09,Saturday
+Philadelphia,11,23:39:10,Saturday
+Philadelphia,33,23:39:11,Saturday
+Houston,1,23:39:12,Saturday
+Chicago,7,23:39:13,Saturday
+Phoenix,25,23:39:14,Saturday
+San Antonio,13,23:39:15,Saturday
+Philadelphia,38,23:39:16,Saturday
+Philadelphia,39,23:56:02,Saturday
+Chicago,5,23:56:03,Saturday
+Los Angeles,14,23:56:04,Saturday
+New York,6,23:56:05,Saturday
+Phoenix,17,23:56:06,Saturday
+San Antonio,36,23:56:07,Saturday
+New York,8,00:11:10,Sunday
+Philadelphia,2,00:11:11,Sunday
+Los Angeles,21,00:11:12,Sunday
+San Antonio,2,00:11:13,Sunday
+Los Angeles,16,00:11:14,Sunday
+Phoenix,28,00:27:38,Sunday
+Houston,-5,00:27:39,Sunday
+Phoenix,-10,00:27:40,Sunday
+Los Angeles,35,00:27:41,Sunday
+Houston,37,00:27:42,Sunday
+Phoenix,32,00:27:43,Sunday
+Chicago,-1,00:39:52,Sunday
+San Antonio,11,00:39:53,Sunday
+New York,36,00:39:54,Sunday
+Los Angeles,0,00:39:55,Sunday
+Philadelphia,20,00:39:56,Sunday
+Los Angeles,5,00:39:57,Sunday
+Phoenix,32,00:39:58,Sunday
+Chicago,13,00:39:59,Sunday
+Chicago,24,00:55:39,Sunday
+Philadelphia,14,00:55:40,Sunday
+Houston,15,00:55:41,Sunday
+Houston,26,00:55:42,Sunday
+New York,33,00:55:43,Sunday
+Phoenix,6,00:55:44,Sunday
+New York,37,01:06:08,Sunday
+New York,25,01:06:09,Sunday
+Houston,17,01:06:10,Sunday
+Los Angeles,-9,01:06:11,Sunday
+New York,32,01:06:12,Sunday
+Phoenix,-6,01:06:13,Sunday
+Los Angeles,14,01:06:14,Sunday
+San Antonio,-9,01:06:15,Sunday
+Philadelphia,0,01:06:16,Sunday
+New York,38,01:06:17,Sunday
+New York,15,01:06:18,Sunday
+Houston,3,01:06:19,Sunday
+Philadelphia,8,01:06:20,Sunday
+Philadelphia,2,01:06:21,Sunday
+Chicago,11,01:06:22,Sunday
+Los Angeles,23,01:06:23,Sunday
+Los Angeles,-3,01:06:24,Sunday
+Chicago,32,01:06:25,Sunday
+Philadelphia,28,01:06:26,Sunday
+Chicago,26,01:06:27,Sunday
+San Antonio,-3,01:06:28,Sunday
+Chicago,5,01:06:29,Sunday
+Chicago,11,01:06:31,Sunday
+Los Angeles,7,01:06:32,Sunday
+Philadelphia,33,01:06:33,Sunday
+New York,-3,01:06:34,Sunday
+San Antonio,17,01:06:35,Sunday
+San Antonio,7,01:06:36,Sunday
+Chicago,13,01:06:37,Sunday
+San Antonio,39,01:06:38,Sunday
+Phoenix,39,01:06:39,Sunday
+Houston,-9,01:06:40,Sunday
+Phoenix,23,01:06:41,Sunday
+Phoenix,8,01:06:42,Sunday
+Los Angeles,-4,01:06:43,Sunday
+Chicago,3,01:06:44,Sunday
+Philadelphia,14,01:06:45,Sunday
+Philadelphia,1,01:06:46,Sunday
+New York,4,01:06:47,Sunday
+San Antonio,16,01:06:48,Sunday
+Phoenix,24,01:06:49,Sunday
+Philadelphia,1,01:06:50,Sunday
+Los Angeles,0,01:06:51,Sunday
+Philadelphia,9,01:06:52,Sunday
+Los Angeles,1,01:06:53,Sunday
+Philadelphia,36,01:06:54,Sunday
+Los Angeles,11,01:06:55,Sunday
+Phoenix,8,01:06:56,Sunday
+Phoenix,22,01:06:57,Sunday
+New York,14,01:06:58,Sunday
+Philadelphia,39,01:06:59,Sunday
+Houston,0,01:07:00,Sunday
+New York,24,01:07:01,Sunday
+Houston,25,01:07:02,Sunday
+New York,18,01:07:03,Sunday
+New York,10,01:07:04,Sunday
+Chicago,19,01:07:05,Sunday
+Philadelphia,34,01:07:06,Sunday
+Houston,33,01:07:07,Sunday
+New York,0,01:07:08,Sunday
+New York,-9,01:07:09,Sunday
+Philadelphia,-10,01:07:10,Sunday
+Chicago,9,01:07:11,Sunday
+Los Angeles,-8,01:07:12,Sunday
+Philadelphia,33,01:07:13,Sunday
+New York,3,01:07:14,Sunday
+Houston,-10,01:07:15,Sunday
+Chicago,4,01:07:16,Sunday
+Phoenix,30,01:07:17,Sunday
+Philadelphia,-5,01:07:18,Sunday
+San Antonio,22,01:07:19,Sunday
+Houston,-3,01:07:20,Sunday
+Houston,25,01:07:21,Sunday
+Houston,9,01:07:22,Sunday
+Chicago,-4,01:07:23,Sunday
+Chicago,18,01:07:24,Sunday
+Phoenix,34,01:07:25,Sunday
+Los Angeles,-1,01:07:26,Sunday
+San Antonio,37,01:07:27,Sunday
+Chicago,23,01:07:28,Sunday
+Chicago,16,01:07:29,Sunday
+Houston,22,01:07:30,Sunday
+Chicago,3,01:07:31,Sunday
+Phoenix,35,01:07:32,Sunday
+Los Angeles,-10,01:07:33,Sunday
+Phoenix,38,01:07:34,Sunday
+Houston,18,01:07:35,Sunday
+Los Angeles,0,01:07:36,Sunday
+Los Angeles,19,01:07:37,Sunday
+Los Angeles,33,01:07:38,Sunday
+New York,3,01:07:39,Sunday
+Los Angeles,31,01:07:40,Sunday
+Philadelphia,-10,01:07:41,Sunday
+Chicago,-4,01:07:42,Sunday
+Phoenix,23,01:07:43,Sunday
+Phoenix,9,01:07:44,Sunday
+Chicago,37,01:07:45,Sunday
+Phoenix,10,01:07:46,Sunday
+Los Angeles,1,01:07:47,Sunday
+Houston,15,01:07:48,Sunday
+Los Angeles,1,01:07:49,Sunday
+Phoenix,32,01:07:50,Sunday
+Chicago,35,01:07:51,Sunday
+Los Angeles,35,01:07:52,Sunday
+Phoenix,18,01:07:53,Sunday
+Los Angeles,23,01:07:54,Sunday
+Houston,4,01:07:55,Sunday
+Houston,12,01:07:56,Sunday
+San Antonio,0,01:07:57,Sunday
+New York,0,01:07:58,Sunday
+Phoenix,36,01:07:59,Sunday
+Phoenix,-2,01:08:00,Sunday
+Philadelphia,-8,01:08:01,Sunday
+Houston,23,01:08:02,Sunday
+San Antonio,0,01:08:03,Sunday
+Philadelphia,24,01:08:04,Sunday
+Phoenix,29,01:08:05,Sunday
+Los Angeles,-7,01:08:06,Sunday
+New York,20,01:08:07,Sunday
+Phoenix,-3,01:08:08,Sunday
+Houston,20,01:08:09,Sunday
+Phoenix,-9,01:08:10,Sunday
+Phoenix,7,01:08:11,Sunday
+Los Angeles,9,01:08:12,Sunday
+Chicago,8,01:08:13,Sunday
+Chicago,-10,01:08:14,Sunday
+Houston,-10,01:08:15,Sunday
+Phoenix,34,01:08:16,Sunday
+Philadelphia,14,01:08:17,Sunday
+New York,27,01:08:18,Sunday
+Philadelphia,11,01:08:19,Sunday
+Chicago,28,01:08:20,Sunday
+Chicago,14,01:08:21,Sunday
+Houston,4,01:08:22,Sunday
+San Antonio,-4,01:08:23,Sunday
+New York,-7,01:08:24,Sunday
+Phoenix,2,01:08:25,Sunday
+Chicago,6,01:08:26,Sunday
+Philadelphia,28,01:08:27,Sunday
+Philadelphia,3,01:08:28,Sunday
+Chicago,27,01:08:29,Sunday
+Phoenix,10,01:08:30,Sunday
+New York,1,01:08:31,Sunday
+New York,11,01:08:32,Sunday
+San Antonio,-4,01:08:33,Sunday
+New York,23,01:08:34,Sunday
+Chicago,31,01:08:35,Sunday
+Chicago,8,01:08:36,Sunday
+Houston,-4,01:08:37,Sunday
+Chicago,37,01:08:38,Sunday
+New York,19,01:08:39,Sunday
+San Antonio,14,01:08:40,Sunday
+Chicago,10,01:08:41,Sunday
+Philadelphia,2,01:08:42,Sunday
+Chicago,28,01:08:43,Sunday
+San Antonio,-7,01:08:44,Sunday
+Houston,12,01:08:45,Sunday
+New York,27,01:08:46,Sunday
+Los Angeles,10,01:08:47,Sunday
+Houston,30,01:08:48,Sunday
+New York,40,01:08:49,Sunday
+Los Angeles,31,01:08:50,Sunday
+Houston,-2,01:08:51,Sunday
+Los Angeles,26,01:08:52,Sunday
+Phoenix,-10,01:08:53,Sunday
+New York,14,01:08:54,Sunday
+Chicago,40,01:08:55,Sunday
+Phoenix,36,01:08:56,Sunday
+Chicago,40,01:08:57,Sunday
+San Antonio,15,01:08:58,Sunday
+Houston,19,01:08:59,Sunday
+Phoenix,27,01:09:00,Sunday
+Houston,3,01:09:01,Sunday
+San Antonio,-5,01:09:02,Sunday
+Los Angeles,36,01:09:03,Sunday
+San Antonio,6,01:09:04,Sunday
+Phoenix,7,01:09:05,Sunday
+Los Angeles,3,01:09:06,Sunday
+Philadelphia,16,01:09:07,Sunday
+Houston,13,01:09:08,Sunday
+Houston,24,01:09:09,Sunday
+Houston,17,01:09:10,Sunday
+Chicago,-6,01:09:11,Sunday
+Philadelphia,19,01:09:12,Sunday
+New York,29,01:09:13,Sunday
+New York,39,01:09:14,Sunday
+Philadelphia,8,01:09:15,Sunday
+Los Angeles,31,01:09:16,Sunday
+Philadelphia,34,01:09:17,Sunday
+Phoenix,30,01:09:18,Sunday
+Phoenix,22,01:09:19,Sunday
+Houston,-5,01:09:20,Sunday
+Chicago,3,01:09:21,Sunday
+Houston,-10,01:09:22,Sunday
+Phoenix,14,01:09:23,Sunday
+Phoenix,39,01:09:24,Sunday
+San Antonio,20,01:09:25,Sunday
+Phoenix,37,01:09:26,Sunday
+Chicago,23,01:09:27,Sunday
+New York,-7,01:09:28,Sunday
+Los Angeles,-10,01:09:29,Sunday
+Phoenix,6,01:09:30,Sunday
+New York,30,01:09:31,Sunday
+Phoenix,-9,01:09:32,Sunday
+New York,5,01:09:33,Sunday
+New York,17,01:09:34,Sunday
+New York,23,01:09:35,Sunday
+Chicago,40,01:09:36,Sunday
+Phoenix,23,01:09:37,Sunday
+New York,5,01:09:38,Sunday
+Houston,3,01:09:39,Sunday
+Phoenix,7,01:09:40,Sunday
+San Antonio,37,01:09:41,Sunday
+New York,28,01:09:42,Sunday
+New York,35,01:09:43,Sunday
+Philadelphia,16,01:09:44,Sunday
+San Antonio,32,01:09:45,Sunday
+Houston,-5,01:09:46,Sunday
