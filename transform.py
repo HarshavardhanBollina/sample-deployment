@@ -9,4 +9,4 @@ df = df.drop('timestamp', axis=1)
 # Ensure these headers match your CSV file exactly
 df.columns = ['City', 'Temperature', 'Day', 'Time'] 
 
-df
+df.to_csv('processed_data.csv', index=False)
