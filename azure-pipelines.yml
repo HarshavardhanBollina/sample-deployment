@@ -20,10 +20,10 @@ steps:
     echo "Data processing completed."
   displayName: 'Process Data'
 
-- task: PublishPipelineArtifact@1
-inputs:
-  targetPath: 'processed_data.pkl' 
-  artifact: 'processed_data'
+# - task: PublishPipelineArtifact@1
+# inputs:
+#   targetPath: 'processed_data.pkl' 
+#   artifact: 'processed_data'
 
 # - task: PostgreSQL@3 
 # inputs:
